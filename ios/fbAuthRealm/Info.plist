@@ -51,5 +51,21 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+<!-- Facebook -->
+	<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb271309475207208</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>271309475207208</string>
+<key>FacebookClientToken</key>
+<string>005b234d02e0aaff77085ab35bff0a63</string>
+<key>FacebookDisplayName</key>
+<string>AuthBKReactNative</string>
 </dict>
 </plist>
