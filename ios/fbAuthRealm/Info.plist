@@ -57,15 +57,15 @@
   <dict>
   <key>CFBundleURLSchemes</key>
   <array>
-    <string>fb271309475207208</string>
+    <string>fb{your-app-id}</string>
   </array>
   </dict>
 </array>
 <key>FacebookAppID</key>
-<string>271309475207208</string>
+<string>{your-app-id}</string>
 <key>FacebookClientToken</key>
-<string>005b234d02e0aaff77085ab35bff0a63</string>
+<string>{your-client-token}</string>
 <key>FacebookDisplayName</key>
-<string>AuthBKReactNative</string>
+<string>{your-app-name}</string>
 </dict>
 </plist>
