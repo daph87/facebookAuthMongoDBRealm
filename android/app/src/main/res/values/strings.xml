@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">fbAuthRealm</string>
-    <string name="facebook_app_id">271309475207208</string>
-<string name="facebook_client_token">005b234d02e0aaff77085ab35bff0a63</string>
+    <string name="facebook_app_id">"<your_app_id>"</string>
+<string name="facebook_client_token">"<your_token>"</string>
 </resources>
